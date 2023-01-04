@@ -1,4 +1,4 @@
-#################### Our Blackjack Rules ######################
+###################### Blackjack Rules ########################
 
 ## The deck is unlimited in size. 
 ## There are no jokers. 
